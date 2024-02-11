@@ -1,0 +1,10 @@
+h1{
+	text-align: center;
+	margin: 10px 0 30px;
+}
+.row{
+	margin-bottom: 80px;
+}
+.r_content{
+	background-color: lightgreen;
+}
